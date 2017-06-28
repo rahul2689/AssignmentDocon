@@ -1,6 +1,7 @@
 package com.docon.assignment.assignmentdocon.network_connection;
 
-import com.docon.assignment.assignmentdocon.model.home.UsersResponse;
+
+import com.docon.assignment.assignmentdocon.model.UsersResponse;
 
 import rx.Observable;
 import rx.Subscriber;

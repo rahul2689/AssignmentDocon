@@ -3,7 +3,7 @@ package com.docon.assignment.assignmentdocon.dagger;
 
 
 import com.docon.assignment.assignmentdocon.network_connection.NetworkModule;
-import com.docon.assignment.assignmentdocon.view.home.HomeActivity;
+import com.docon.assignment.assignmentdocon.view.HomeActivity;
 
 import javax.inject.Singleton;
 

@@ -1,6 +1,7 @@
 package com.docon.assignment.assignmentdocon.network_connection;
 
-import com.docon.assignment.assignmentdocon.model.home.UsersResponse;
+
+import com.docon.assignment.assignmentdocon.model.UsersResponse;
 
 import retrofit2.http.GET;
 import retrofit2.http.Query;
